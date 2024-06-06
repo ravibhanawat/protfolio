@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
-  "homepage": "https://hamishw.com",
+  "homepage": "https://ravibhanawat.com",
   "description": "Portfolio site for RAVI BHANAWAT",
-  "repository": "https://github.com/HamishMW/portfolio.git",
+  "repository": "https://github.com/ravibhanawat/portfolio.git",
   "author": "RAVI BHANAWAT",
   "sideEffects": false,
   "type": "module",

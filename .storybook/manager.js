@@ -6,6 +6,6 @@ addons.setConfig({
     ...themes.dark,
     brandImage: './icon.svg',
     brandTitle: 'RAVI BHANAWAT Components',
-    brandUrl: 'https://hamishw.com',
+    brandUrl: 'https://ravibhanawat.com',
   },
 });
